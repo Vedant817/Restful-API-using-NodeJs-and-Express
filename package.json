@@ -1,0 +1,14 @@
+{
+  "name": "restful-api-using-nodejs-and-express",
+  "version": "1.0.0",
+  "description": "Restful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vedant Mahajan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
